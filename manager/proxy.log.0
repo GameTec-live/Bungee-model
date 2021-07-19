@@ -268,3 +268,82 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
 08:47:50 [INFORMATION] Disabling plugins
 08:47:50 [INFORMATION] Closing IO threads
 08:47:52 [INFORMATION] Thank you and goodbye
+10:33:00 [INFORMATION] Using standard Java JCE cipher.
+10:33:00 [INFORMATION] Using standard Java compressor.
+10:33:00 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:5db276e:1595
+10:33:00 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+10:33:00 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+10:33:00 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+10:33:00 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+10:33:00 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+10:33:00 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+10:33:00 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [INFORMATION] Loaded plugin ViaVersion version 4.0.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+10:33:00 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [WARNUNG] Forced host server pvp is not defined
+10:33:00 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [INFORMATION] [ViaVersion] Loading 1.12 -> 1.13 mappings...
+10:33:00 [INFORMATION] [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+10:33:00 [INFORMATION] [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+10:33:00 [INFORMATION] [ViaVersion] Loading 1.14 -> 1.15 mappings...
+10:33:00 [INFORMATION] [ViaVersion] Loading block connection mappings ...
+10:33:00 [INFORMATION] [ViaVersion] Loading 1.15 -> 1.16 mappings...
+10:33:00 [INFORMATION] [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+10:33:00 [INFORMATION] [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+10:33:00 [INFORMATION] Enabled plugin ViaVersion version 4.0.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+10:33:00 [INFORMATION] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+10:33:00 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [INFORMATION] [ViaVersion] Highest supported version by the proxy: 1.17.1 (756)
+10:33:00 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:00 [WARNUNG] [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 16 (your version is 1.8.0_281). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+10:33:00 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:33:01 [INFORMATION] Listening on /0.0.0.0:25565
+10:33:01 [INFORMATION] [ViaVersion] Finished mapping loading, shutting down loader executor!
+10:34:03 [INFORMATION] Closing listener [id: 0x370a5a21, L:/0:0:0:0:0:0:0:0:25565]
+10:34:03 [INFORMATION] Closing pending connections
+10:34:03 [INFORMATION] Disconnecting 0 connections
+10:34:04 [INFORMATION] Disabling plugins
+10:34:04 [INFORMATION] Closing IO threads
+10:34:13 [INFORMATION] Using standard Java JCE cipher.
+10:34:13 [INFORMATION] Using standard Java compressor.
+10:34:13 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:5db276e:1595
+10:34:14 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+10:34:14 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+10:34:14 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+10:34:14 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+10:34:14 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+10:34:14 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+10:34:14 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [INFORMATION] Loaded plugin ViaVersion version 4.0.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+10:34:14 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [WARNUNG] Forced host server pvp is not defined
+10:34:14 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [INFORMATION] [ViaVersion] Loading 1.12 -> 1.13 mappings...
+10:34:14 [INFORMATION] [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+10:34:14 [INFORMATION] [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+10:34:14 [INFORMATION] [ViaVersion] Loading 1.14 -> 1.15 mappings...
+10:34:14 [INFORMATION] [ViaVersion] Loading 1.15 -> 1.16 mappings...
+10:34:14 [INFORMATION] [ViaVersion] Loading block connection mappings ...
+10:34:14 [INFORMATION] [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+10:34:14 [INFORMATION] [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+10:34:14 [INFORMATION] Enabled plugin ViaVersion version 4.0.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+10:34:14 [INFORMATION] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+10:34:14 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [INFORMATION] [ViaVersion] Highest supported version by the proxy: 1.17.1 (756)
+10:34:14 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:14 [WARNUNG] [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 16 (your version is 1.8.0_281). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+10:34:14 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:5db276e:1595 by SpigotMC
+10:34:15 [INFORMATION] Listening on /0.0.0.0:25565
+10:34:15 [INFORMATION] [ViaVersion] Finished mapping loading, shutting down loader executor!
